@@ -1,0 +1,31 @@
+case_id,valid,serious,criteria
+C001,yes,no,
+C002,yes,no,
+C003,yes,yes,hospitalised
+C004,yes,no,
+C005,yes,yes,hospitalised
+C006,yes,yes,other_important
+C007,no,not assessed,
+C008,yes,no,
+C009,yes,yes,life_threatening; hospitalised
+C010,yes,no,
+C011,yes,yes,death
+C012,no,not assessed,
+C013,yes,no,
+C014,yes,no,
+C015,yes,yes,life_threatening; hospitalised
+C016,yes,no,
+C017,yes,yes,hospitalised; disability
+C018,no,not assessed,
+C019,yes,yes,congenital_anomaly
+C020,yes,yes,hospitalised
+C021,no,not assessed,
+C022,yes,no,
+C023,yes,yes,hospitalised
+C024,yes,no,
+C025,no,not assessed,
+C026,yes,yes,life_threatening; hospitalised
+C027,yes,no,
+C028,yes,yes,disability
+C029,yes,no,
+C030,yes,yes,hospitalised

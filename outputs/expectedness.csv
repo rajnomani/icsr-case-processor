@@ -1,0 +1,31 @@
+case_id,valid,serious,expected,listed_term,priority
+C001,yes,no,yes,dizziness,
+C002,yes,no,yes,nausea,
+C003,yes,yes,no,,HIGH
+C004,yes,no,yes,headache,
+C005,yes,yes,no,,HIGH
+C006,yes,yes,yes,raised liver enzymes,
+C007,no,,not assessed,,
+C008,yes,no,yes,abdominal pain,
+C009,yes,yes,no,,HIGH
+C010,yes,no,yes,insomnia,
+C011,yes,yes,no,,HIGH
+C012,no,,not assessed,,
+C013,yes,no,yes,diarrhoea,
+C014,yes,no,yes,muscle pain,
+C015,yes,yes,no,,HIGH
+C016,yes,no,no,,
+C017,yes,yes,no,,HIGH
+C018,no,,not assessed,,
+C019,yes,yes,no,,HIGH
+C020,yes,yes,no,,HIGH
+C021,no,,not assessed,,
+C022,yes,no,yes,fatigue,
+C023,yes,yes,no,,HIGH
+C024,yes,no,no,,
+C025,no,,not assessed,,
+C026,yes,yes,no,,HIGH
+C027,yes,no,yes,rash,
+C028,yes,yes,no,,HIGH
+C029,yes,no,yes,dizziness,
+C030,yes,yes,yes,pancreatitis,

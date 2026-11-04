@@ -1,0 +1,14 @@
+case_id,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10
+C003,no,yes,yes,unknown,no,unknown,unknown,unknown,unknown,yes
+C005,no,yes,unknown,unknown,yes,unknown,unknown,unknown,unknown,no
+C006,yes,yes,yes,unknown,no,unknown,unknown,yes,unknown,yes
+C009,yes,yes,yes,yes,no,unknown,unknown,unknown,yes,yes
+C011,no,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,no
+C015,no,yes,yes,unknown,yes,unknown,unknown,unknown,unknown,yes
+C017,no,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,yes
+C019,no,yes,unknown,unknown,yes,unknown,unknown,unknown,unknown,yes
+C020,no,yes,yes,yes,no,unknown,unknown,yes,unknown,yes
+C023,no,yes,yes,unknown,yes,unknown,unknown,unknown,unknown,no
+C026,no,yes,unknown,unknown,no,unknown,yes,unknown,unknown,yes
+C028,no,yes,no,unknown,no,unknown,unknown,unknown,unknown,yes
+C030,yes,yes,yes,unknown,no,unknown,unknown,unknown,unknown,yes

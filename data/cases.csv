@@ -1,0 +1,31 @@
+case_id,receipt_date,reporter_type,reporter_country,patient_initials,patient_age,patient_sex,suspect_drug,event_verbatim,death,life_threatening,hospitalised,disability,congenital_anomaly,other_important
+C001,2026-01-05,physician,India,A.K.,54,F,CRX-440,felt dizzy after first dose,0,0,0,0,0,0
+C002,2026-01-09,pharmacist,India,R.S.,67,M,CRX-440,nausea and vomiting,0,0,0,0,0,0
+C003,2026-01-14,physician,India,M.P.,41,F,CRX-440,severe skin rash with blisters,0,0,1,0,0,0
+C004,2026-01-20,consumer,India,S.D.,29,F,CRX-440,headache for three days,0,0,0,0,0,0
+C005,2026-01-27,physician,India,V.N.,72,M,CRX-440,fainted and fell,0,0,1,0,0,0
+C006,2026-02-02,physician,India,K.L.,58,M,LMV-120,raised liver enzymes,0,0,0,0,0,1
+C007,2026-02-06,,,T.B.,46,F,CRX-440,swollen face and lips,0,0,0,0,0,0
+C008,2026-02-11,physician,India,H.R.,63,F,LMV-120,stomach pain,0,0,0,0,0,0
+C009,2026-02-18,physician,India,D.M.,35,M,CRX-440,anaphylaxis within 10 minutes of dose,0,1,1,0,0,0
+C010,2026-02-24,consumer,India,P.J.,50,F,LMV-120,trouble sleeping,0,0,0,0,0,0
+C011,2026-03-03,physician,India,G.T.,80,M,CRX-440,died suddenly at home,1,0,0,0,0,0
+C012,2026-03-08,physician,India,,,,LMV-120,low blood sugar,0,0,0,0,0,0
+C013,2026-03-15,pharmacist,India,N.C.,38,F,CRX-440,diarrhoea,0,0,0,0,0,0
+C014,2026-03-22,physician,India,B.A.,61,M,LMV-120,muscle pain and weakness,0,0,0,0,0,0
+C015,2026-03-29,physician,India,F.Q.,44,F,CRX-440,liver failure,0,1,1,0,0,0
+C016,2026-04-04,consumer,India,L.W.,33,F,CRX-440,metallic taste in mouth,0,0,0,0,0,0
+C017,2026-04-10,physician,India,J.O.,69,M,LMV-120,fall with broken hip,0,0,1,1,0,0
+C018,2026-04-17,physician,India,E.Y.,52,F,,severe headache,0,0,0,0,0,0
+C019,2026-04-25,physician,India,Z.H.-infant,0,F,CRX-440,baby born with heart defect after exposure in pregnancy,0,0,0,0,1,0
+C020,2026-05-02,physician,India,U.G.,56,M,LMV-120,irregular heartbeat,0,0,1,0,0,0
+C021,2026-05-09,pharmacist,India,Y.M.,48,F,CRX-440,,0,0,0,0,0,0
+C022,2026-05-16,consumer,India,O.P.,31,M,CRX-440,felt tired all day,0,0,0,0,0,0
+C023,2026-05-23,physician,India,C.V.,75,F,LMV-120,confusion and disorientation,0,0,1,0,0,0
+C024,2026-06-01,physician,India,Q.K.,59,M,CRX-440,swelling of ankles,0,0,0,0,0,0
+C025,2026-06-08,physician,,I.D.,43,F,LMV-120,dry mouth,0,0,0,0,0,0
+C026,2026-06-15,physician,India,W.S.,66,M,CRX-440,seizure,0,1,1,0,0,0
+C027,2026-06-22,pharmacist,India,X.E.,37,F,LMV-120,rash on both arms,0,0,0,0,0,0
+C028,2026-06-30,physician,India,A.F.,64,M,CRX-440,persistent vision problems since starting the drug,0,0,0,1,0,0
+C029,2026-07-07,consumer,India,,52,,CRX-440,dizziness when standing up,0,0,0,0,0,0
+C030,2026-07-14,physician,India,R.T.,70,F,LMV-120,pancreatitis,0,0,1,0,0,0

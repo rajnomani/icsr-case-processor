@@ -1,0 +1,14 @@
+case_id,naranjo_score,causality
+C003,6,probable
+C005,1,possible
+C006,8,probable
+C009,10,definite
+C011,-1,doubtful
+C015,3,possible
+C017,0,doubtful
+C019,2,possible
+C020,9,definite
+C023,2,possible
+C026,6,probable
+C028,5,probable
+C030,7,probable

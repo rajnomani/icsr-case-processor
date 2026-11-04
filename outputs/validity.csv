@@ -1,0 +1,31 @@
+case_id,valid,reasons
+C001,yes,
+C002,yes,
+C003,yes,
+C004,yes,
+C005,yes,
+C006,yes,
+C007,no,no identifiable reporter
+C008,yes,
+C009,yes,
+C010,yes,
+C011,yes,
+C012,no,no identifiable patient
+C013,yes,
+C014,yes,
+C015,yes,
+C016,yes,
+C017,yes,
+C018,no,no suspect drug
+C019,yes,
+C020,yes,
+C021,no,no suspected adverse event
+C022,yes,
+C023,yes,
+C024,yes,
+C025,no,no identifiable reporter
+C026,yes,
+C027,yes,
+C028,yes,
+C029,yes,
+C030,yes,
