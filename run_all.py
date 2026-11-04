@@ -64,24 +64,18 @@ report("verify.py passes on the real outputs", result.returncode == 0)
 
 # 4: planted error
 path = Path("outputs/causality.csv")
-original = path.read_text()
-target, wrong = "C009,10,definite", "C009,10,probable"
+original = path.read_bytes()   # exact bytes, so the file can be put back unchanged
+target, wrong = b"C009,10,definite", b"C009,10,probable"
 if target not in original:
-    report("planted error", False, f"could not find '{target}' to change")
+    report("planted error", False, f"could not find '{target.decode()}' to change")
 else:
     try:
-        path.write_text(original.replace(target, wrong))
+        path.write_bytes(original.replace(target, wrong))
         result = run(["verify.py"])
         caught = result.returncode != 0 and "FAIL  causality.csv" in result.stdout
         report("planted error is caught by verify.py", caught,
                "(changed C009 definite -> probable)")
     finally:
-        path.write_text(original)
+        path.write_bytes(original)
     result = run(["verify.py"])
     report("file restored, verify.py passes again", result.returncode == 0)
-
-print()
-if PROBLEMS:
-    print(f"{len(PROBLEMS)} PROBLEM(S): " + "; ".join(PROBLEMS))
-    raise SystemExit(1)
-print("ALL CHECKS PASSED")
