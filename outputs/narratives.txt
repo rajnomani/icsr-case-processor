@@ -1,0 +1,49 @@
+Case C001, received 2026-01-05. A 54-year-old female patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "felt dizzy after first dose". The event was non-serious. The event is listed on the label for CRX-440 as "dizziness" (expected). Causality was not assessed (non-serious case).
+
+Case C002, received 2026-01-09. A 67-year-old male patient was reported by a pharmacist in India. The suspect drug was CRX-440. The reported event was: "nausea and vomiting". The event was non-serious. The event is listed on the label for CRX-440 as "nausea" (expected). Causality was not assessed (non-serious case).
+
+Case C003, received 2026-01-14. A 41-year-old female patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "severe skin rash with blisters". The event was serious (hospitalised). The event is not listed on the label for CRX-440 (unexpected). Causality (Naranjo): probable (score 6). PRIORITY: HIGH (serious and unexpected).
+
+Case C004, received 2026-01-20. A 29-year-old female patient was reported by a consumer in India. The suspect drug was CRX-440. The reported event was: "headache for three days". The event was non-serious. The event is listed on the label for CRX-440 as "headache" (expected). Causality was not assessed (non-serious case).
+
+Case C005, received 2026-01-27. A 72-year-old male patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "fainted and fell". The event was serious (hospitalised). The event is not listed on the label for CRX-440 (unexpected). Causality (Naranjo): possible (score 1). PRIORITY: HIGH (serious and unexpected).
+
+Case C006, received 2026-02-02. A 58-year-old male patient was reported by a physician in India. The suspect drug was LMV-120. The reported event was: "raised liver enzymes". The event was serious (other_important). The event is listed on the label for LMV-120 as "raised liver enzymes" (expected). Causality (Naranjo): probable (score 8).
+
+Case C008, received 2026-02-11. A 63-year-old female patient was reported by a physician in India. The suspect drug was LMV-120. The reported event was: "stomach pain". The event was non-serious. The event is listed on the label for LMV-120 as "abdominal pain" (expected). Causality was not assessed (non-serious case).
+
+Case C009, received 2026-02-18. A 35-year-old male patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "anaphylaxis within 10 minutes of dose". The event was serious (life_threatening, hospitalised). The event is not listed on the label for CRX-440 (unexpected). Causality (Naranjo): definite (score 10). PRIORITY: HIGH (serious and unexpected).
+
+Case C010, received 2026-02-24. A 50-year-old female patient was reported by a consumer in India. The suspect drug was LMV-120. The reported event was: "trouble sleeping". The event was non-serious. The event is listed on the label for LMV-120 as "insomnia" (expected). Causality was not assessed (non-serious case).
+
+Case C011, received 2026-03-03. An 80-year-old male patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "died suddenly at home". The event was serious (death). The event is not listed on the label for CRX-440 (unexpected). Causality (Naranjo): doubtful (score -1). PRIORITY: HIGH (serious and unexpected).
+
+Case C013, received 2026-03-15. A 38-year-old female patient was reported by a pharmacist in India. The suspect drug was CRX-440. The reported event was: "diarrhoea". The event was non-serious. The event is listed on the label for CRX-440 as "diarrhoea" (expected). Causality was not assessed (non-serious case).
+
+Case C014, received 2026-03-22. A 61-year-old male patient was reported by a physician in India. The suspect drug was LMV-120. The reported event was: "muscle pain and weakness". The event was non-serious. The event is listed on the label for LMV-120 as "muscle pain" (expected). Causality was not assessed (non-serious case).
+
+Case C015, received 2026-03-29. A 44-year-old female patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "liver failure". The event was serious (life_threatening, hospitalised). The event is not listed on the label for CRX-440 (unexpected). Causality (Naranjo): possible (score 3). PRIORITY: HIGH (serious and unexpected).
+
+Case C016, received 2026-04-04. A 33-year-old female patient was reported by a consumer in India. The suspect drug was CRX-440. The reported event was: "metallic taste in mouth". The event was non-serious. The event is not listed on the label for CRX-440 (unexpected). Causality was not assessed (non-serious case).
+
+Case C017, received 2026-04-10. A 69-year-old male patient was reported by a physician in India. The suspect drug was LMV-120. The reported event was: "fall with broken hip". The event was serious (hospitalised, disability). The event is not listed on the label for LMV-120 (unexpected). Causality (Naranjo): doubtful (score 0). PRIORITY: HIGH (serious and unexpected).
+
+Case C019, received 2026-04-25. An infant (female) was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "baby born with heart defect after exposure in pregnancy". The event was serious (congenital_anomaly). The event is not listed on the label for CRX-440 (unexpected). Causality (Naranjo): possible (score 2). PRIORITY: HIGH (serious and unexpected).
+
+Case C020, received 2026-05-02. A 56-year-old male patient was reported by a physician in India. The suspect drug was LMV-120. The reported event was: "irregular heartbeat". The event was serious (hospitalised). The event is not listed on the label for LMV-120 (unexpected). Causality (Naranjo): definite (score 9). PRIORITY: HIGH (serious and unexpected).
+
+Case C022, received 2026-05-16. A 31-year-old male patient was reported by a consumer in India. The suspect drug was CRX-440. The reported event was: "felt tired all day". The event was non-serious. The event is listed on the label for CRX-440 as "fatigue" (expected). Causality was not assessed (non-serious case).
+
+Case C023, received 2026-05-23. A 75-year-old female patient was reported by a physician in India. The suspect drug was LMV-120. The reported event was: "confusion and disorientation". The event was serious (hospitalised). The event is not listed on the label for LMV-120 (unexpected). Causality (Naranjo): possible (score 2). PRIORITY: HIGH (serious and unexpected).
+
+Case C024, received 2026-06-01. A 59-year-old male patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "swelling of ankles". The event was non-serious. The event is not listed on the label for CRX-440 (unexpected). Causality was not assessed (non-serious case).
+
+Case C026, received 2026-06-15. A 66-year-old male patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "seizure". The event was serious (life_threatening, hospitalised). The event is not listed on the label for CRX-440 (unexpected). Causality (Naranjo): probable (score 6). PRIORITY: HIGH (serious and unexpected).
+
+Case C027, received 2026-06-22. A 37-year-old female patient was reported by a pharmacist in India. The suspect drug was LMV-120. The reported event was: "rash on both arms". The event was non-serious. The event is listed on the label for LMV-120 as "rash" (expected). Causality was not assessed (non-serious case).
+
+Case C028, received 2026-06-30. A 64-year-old male patient was reported by a physician in India. The suspect drug was CRX-440. The reported event was: "persistent vision problems since starting the drug". The event was serious (disability). The event is not listed on the label for CRX-440 (unexpected). Causality (Naranjo): probable (score 5). PRIORITY: HIGH (serious and unexpected).
+
+Case C029, received 2026-07-07. A patient aged 52 (sex unknown) was reported by a consumer in India. The suspect drug was CRX-440. The reported event was: "dizziness when standing up". The event was non-serious. The event is listed on the label for CRX-440 as "dizziness" (expected). Causality was not assessed (non-serious case).
+
+Case C030, received 2026-07-14. A 70-year-old female patient was reported by a physician in India. The suspect drug was LMV-120. The reported event was: "pancreatitis". The event was serious (hospitalised). The event is listed on the label for LMV-120 as "pancreatitis" (expected). Causality (Naranjo): probable (score 7).
